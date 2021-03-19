@@ -1,3 +1,12 @@
+# Task #1
+
+https://github.com/convos-chat/convos/issues/577
+
+Remember your job is to make *incremental* progress, break the task into smaller tasks, or finish something in 15 minutes, then pass it along to the next contributor. 
+No responsibility, only fun.
+
+If you don't finish, add your next task to the readme.md. Oh and when you're done make a pull request to the code-relay repo.
+
 [![convos](https://snapcraft.io//convos/badge.svg)](https://snapcraft.io/convos)
 [![Docker Status](https://github.com/convos-chat/convos/workflows/Docker%20Image%20CI/badge.svg?branch=master)](https://hub.docker.com/r/convos/convos)
 [![Build Status](https://github.com/convos-chat/convos/workflows/Linux%20CI/badge.svg?branch=master)](https://github.com/convos-chat/convos/actions)
